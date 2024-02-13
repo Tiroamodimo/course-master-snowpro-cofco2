@@ -4,8 +4,8 @@ Preparation Course Link: https://daemn.udemy.com/course/snowflake-certification-
 
 ## Sections
 
-* Section 1: Introduction
-* Section 2: Snowflake Architecture
+* [Section 1: Introduction](Section01_Introduction/README.md)
+* [Section 2: Snowflake Architecture](Section02_Snowflake_Architechture/README.md)
 * Section 3: Data Loading and Unloading
 * Section 4: Data Transformation
 * Section 5: Additional Snowflake Tools and Connectors
