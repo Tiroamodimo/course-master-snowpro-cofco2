@@ -1,0 +1,6 @@
+use role ACCOUNTADMIN;
+use warehouse COMPUTE_WH;
+
+select *
+from SNOWFLAKE_SAMPLE_DATA.TPCH_SF1.CUSTOMER;
+
