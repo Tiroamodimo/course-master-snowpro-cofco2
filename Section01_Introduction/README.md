@@ -9,7 +9,6 @@
 d1. Worksheet can be shared using the "Share" button of the worksheets section
 
     <img src="../resources/readme_images/section01b_worksheet_sharing.png" width="300" height="150">
-    [Insert Snowsight Share Button Here]
 
 1. "User" is NOT a valid context to select in a worksheet
     - valid contexts to select
