@@ -32,3 +32,5 @@ d1. Worksheet can be shared using the "Share" button of the worksheets section
 
 1. Snowflake is a self-managed, cloud-native data platform
     <img src="../resources/readme_images/section01c_what_is_snowflake.png" width="300" height="150">
+
+[<- previous](../README.md)

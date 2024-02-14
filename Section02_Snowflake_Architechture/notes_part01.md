@@ -28,3 +28,5 @@
 - The cloud services layer coordinates the other layers together in a secure, transparent and cost-effective way for users
 
     <img src="../resources/readme_images/section02f_snowflake_architecture_cloud_services_layer.png" width="300" height="150">
+
+[<- previous](README.md)

@@ -9,3 +9,4 @@ The section is divided into different parts.
 * [Snowflake Pricing Guide](https://www.snowflake.com/pricing/pricing-guide/)
 * 
 
+[<- previous](../README.md)
