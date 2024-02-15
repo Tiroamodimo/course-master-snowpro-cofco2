@@ -1,5 +1,9 @@
 # Corrections for Prep Exam Take 1: 2024-02-13
 
+Here are the results of my first take
+
+<img src="../../resources/readme_images/exam_prep_take20240212_01_corrections/take01aa_overview.png">
+
 ## Section 08: Account and Security
 
 1. **Assigning a network policy** on the user level needs a **role**:
@@ -100,7 +104,10 @@
    1. External tokenization removes sensitive data by replacing each value with a cryptic token.
    2. Like this it is possible to group data and preserve some analytical value of the column without revealing sensitive information.
 
+## Section 4: Data Transformation
+1.
+
 ## Section 02: Architecture
 1. There is no "Serverless" Layer, [see this](../Section02_Snowflake_Architechture/notes_section02part01)
-1. It is important to understand Pricing, [see this]() and [the pricing guide](../Section02_Snowflake_Architechture/README.md)
+1. It is important to understand Pricing, [see this]() and [the pricing guide](../../Section02_Snowflake_Architechture/README.md)
 1. 

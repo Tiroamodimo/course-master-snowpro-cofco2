@@ -2,6 +2,17 @@
 
 Preparation Course Link: https://daemn.udemy.com/course/snowflake-certification-snowpro-core-exam-prep/learn/lecture/36734254#overview
 
+I highly recommend this course!
+
+The strategy is simple.
+
+1. Learn more things about snowflake to pass the exam. (good for personal dev as well)
+1. Take prep the exam
+1. Correct my understanding about how snowflake works
+1. repeat
+
+Sections 1-9 outlined below constitute the part where things about snowflake to pass the exam are studied.
+
 ## Sections
 
 * [Section 1: Introduction](Section01_Introduction/README.md)
