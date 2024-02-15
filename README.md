@@ -17,12 +17,12 @@ Sections 1-9 outlined below constitute the part where things about snowflake to 
 
 * [Section 1: Introduction](Section01_Introduction/README.md)
 * [Section 2: Snowflake Architecture](Section02_Snowflake_Architechture/README.md)
-* Section 3: Data Loading and Unloading
+* [Section 3: Data Loading and Unloading](Section03_data_loading_uploading/README.md)
 * Section 4: Data Transformation
 * Section 5: Additional Snowflake Tools and Connectors
 * Section 6: Continuous Data Protection
 * Section 7: Zero-Copy Cloning and Sharing
 * Section 8: Account and Security
 * Section 9: Performance Concepts
-* Section 10: Final Exam
+* [Section 10: Final Exam](Section10_Final_exam/README.md)
 
