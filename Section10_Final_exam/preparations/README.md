@@ -11,5 +11,11 @@ This section is about **correcting** the following in descending order of priori
 1. Questions I got incorrect
 1. Questions I got correct for the incorrect reasons
 
+### Interesting Bits
+
+1. I can't change a `FILE_FORMAT`'s `TYPE` attribute with with `ALTER_COMMAND`, [see this](../../Course Material/section03_resources/File+Format.txt)
+1. I think th `INSERT_OVERWRITE` command is nifty, [see this](../../Course Material/section03_resources/INSERT&UPDATE.txt)
+
+
 [<- previous](../README.md)
 
