@@ -1,4 +1,4 @@
-# General Corrections in Preparation for Exam
+# Exam Takes
 
 The strategy is simple.
 
@@ -7,9 +7,15 @@ The strategy is simple.
 1. Correct my understanding about how snowflake works
 1. repeat
 
-This section is about **correcting** the following in descending order of priority:
+This section we catalog our questions and answers from the prep exam taken, and **correct** the following in descending order of priority:
 1. Questions I got incorrect
 1. Questions I got correct for the incorrect reasons
+
+## Exam Prep Takes and Corrections
+1. [Exam Prep Take 1](exam_prep_take01/README.md)
+1. 
+
+
 
 ### Interesting Bits
 
