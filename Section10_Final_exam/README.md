@@ -7,4 +7,6 @@ The strategy is simple.
 1. Correct my understanding about how snowflake works
 1. repeat
 
-taking the prep exam and correcting my understanding about how snowflake works happens in [preparations](preparations/README.md)
+taking the prep exam and correcting my understanding about how snowflake works happens [in here](exam_prep_corrections/README.md).
+
+[<- previous](../README.md)
