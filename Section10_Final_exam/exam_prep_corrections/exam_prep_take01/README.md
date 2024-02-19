@@ -6,9 +6,13 @@ Here are the results of my first take
 
 Exam corrections were organised into sections, starting with the section I performed the worst in.
 
-1. [Section 8: Account and Security](correction01section08.md)
-1. [Section 4: Data Transformations](corrections02section04.md)
-1. [Section 2: Architecture](corrections__section02.md)
+1. [Section 8 Correction: Account and Security](correction01section08.md)
+1. [Section 4 Correction: Data Transformations](corrections02section04.md)
+1. [Section 2 Correction: Architecture](corrections03section02)
+1. [Section 3 Corrections: Performance Concepts]()
+1. 
+1. 
+
 
 [<- previous](../README.md)
 
