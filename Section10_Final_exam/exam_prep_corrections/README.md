@@ -12,6 +12,9 @@ This section we catalog our questions and answers from the prep exam taken, and 
 1. Questions I got correct for the incorrect reasons
 
 ## Exam Prep Takes and Corrections
+
+The corrections were enriched by answers provided by [Gemmini](https://gemini.google.com/app)
+
 1. [Exam Prep Take 1](exam_prep_take01/README.md)
 1. 
 

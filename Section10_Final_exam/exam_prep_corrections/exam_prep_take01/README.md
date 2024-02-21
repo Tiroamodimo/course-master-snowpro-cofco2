@@ -12,7 +12,7 @@ Exam corrections were organised into sections, starting with the section I perfo
 1. [Section 9 Corrections: Performance Concepts](corrections04section09.md)
 1. [Section 7 Corrections: Zero-copy Cloning and Sharing](corrections05section07.md)
 1. [Section 3 Corrections: Data Loading and Unloading](corrections06section03.md)
-1. 
+1. [Section 6 Corrections: Continuous Protection](corrections07section06.md)
 
 
 [<- previous](../README.md)
