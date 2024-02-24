@@ -5,6 +5,10 @@ The section is divided into different parts.
 
 * [Part 1: Transformations and Functions](notes_section04part01.md)
 * [Part 2: User-defined Functions (UDFs) and Stored Procedures](notes_section04part02.md)
+* [Part 3: External Functions, Secure UDFs and Procedures as well as Sequences](notes_section04part03.md)
+* [Part 4: Semi-structured Data](notes_section04part04.md)
+* [Part 5: Unstructured Data and Data Tables](notes_section04part05.md)
+* [Part 6: Sampling, Tasks and Streams](notes_section04part06.md)
 * 
 
 [<- previous](../README.md)
