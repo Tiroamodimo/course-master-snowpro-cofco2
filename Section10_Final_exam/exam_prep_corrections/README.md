@@ -16,6 +16,7 @@ This section we catalog our questions and answers from the prep exam taken, and 
 The corrections were enriched by answers provided by [Gemmini](https://gemini.google.com/app)
 
 1. [Exam Prep Take 1](exam_prep_take01/README.md)
+1. [Exam Prep Take 2](exam_prep_take02/README.md)
 1. 
 
 
