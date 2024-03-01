@@ -1,3 +1,3 @@
-# Section 5: Additional Tools and Connectors
+# Section 5: Additional Snowflake Tools and Connectors
 
 [previous](../README.md)
