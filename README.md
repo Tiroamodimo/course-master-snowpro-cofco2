@@ -23,6 +23,6 @@ Sections 1-9 outlined below constitute the part where things about snowflake to 
 * Section 6: Continuous Data Protection
 * Section 7: Zero-Copy Cloning and Sharing
 * [Section 8: Account and Security](Section08_accounts_and_security/README.md)
-* Section 9: Performance Concepts
+* [Section 9: Performance Concepts](section09_performance_concepts/README.md)
 * [Section 10: Final Exam](Section10_Final_exam/README.md)
 
