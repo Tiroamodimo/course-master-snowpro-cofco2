@@ -7,4 +7,4 @@ The section is divided into different parts.
 * [Part 2 - Micro-partitions and Clustering](notes_section09part02.md)
 * [Part 3 - Search Optimization, Materialized Views and Warehouses](notes_section09part03.md)
 
-[previous](../README.md)
+[<- previous](../README.md)
